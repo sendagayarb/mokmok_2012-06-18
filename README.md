@@ -27,6 +27,8 @@ mokmok_2012-06-18
   * ポジションペーパー:http://satococoa.github.com/
 * pwim
   * ポジションペーパー:(http://www.tokyodev.com/
+* yalab
+  * twitter: @yalab
 
 # 質問したいこと
 - 例)業務でこんなことやるんだけど誰か知ってる？
