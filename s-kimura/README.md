@@ -4,7 +4,7 @@
 
 # もくもくの記録
 ## 今日できたこと
-* sessionの危険性の調査
+* sinatra sessionの危険性の調査
 
 ## 今日学んだこと
 * Rack::Cookie::Sessionを利用している
