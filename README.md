@@ -27,6 +27,12 @@ mokmok_2012-06-18
   * ポジションペーパー:http://satococoa.github.com/
 * iR3
   * ポジションペーパー(かなり昔の):http://goo.gl/qS13y
+* pwim
+  * ポジションペーパー:(http://www.tokyodev.com/
+* yalab
+  * twitter: @yalab
+* s-kimura
+  * ポジションペーパー:http://p.kimura-online.com/
 
 # 質問したいこと
 - 例)業務でこんなことやるんだけど誰か知ってる？
