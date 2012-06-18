@@ -29,7 +29,7 @@ mokmok_2012-06-18
   * ポジションペーパー:(http://www.tokyodev.com/
 * yalab
   * twitter: @yalab
-* Sosuke Kimura
+* s-kimura
   * ポジションペーパー:http://p.kimura-online.com/
 
 # 質問したいこと
