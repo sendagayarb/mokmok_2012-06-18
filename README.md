@@ -25,6 +25,8 @@ mokmok_2012-06-18
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
 * satococoa
   * ポジションペーパー:http://satococoa.github.com/
+* iR3
+  * ポジションペーパー(かなり昔の):http://goo.gl/qS13y
 * pwim
   * ポジションペーパー:(http://www.tokyodev.com/
 * yalab
