@@ -29,6 +29,8 @@ mokmok_2012-06-18
   * ポジションペーパー:(http://www.tokyodev.com/
 * yalab
   * twitter: @yalab
+* Sosuke Kimura
+  * ポジションペーパー:http://p.kimura-online.com/
 
 # 質問したいこと
 - 例)業務でこんなことやるんだけど誰か知ってる？
