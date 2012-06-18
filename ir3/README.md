@@ -48,6 +48,7 @@ https://chrome.google.com/webstore/detail/cbahnmcliajmanjkaolemjelphicnein
 拝見させて頂いたが、いろいろ詰まっているので濃い！
 ppworks/r4d · GitHub
 https://github.com/ppworks/r4d
+git stash git stash pop で編集内容が消えてしまう事案発生。
 
 
 ## 個人のKPT
