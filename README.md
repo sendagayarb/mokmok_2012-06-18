@@ -10,7 +10,7 @@ mokmok_2012-06-18
 * [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/309056)
 
 # 流れ
-* 19:00 Heroku Dev Center読書会
+* 19:00 Heroku Dev Center読書会 業務の都合上中止(mokmokに組み込み)
 * 19:30 説明 + 自己紹介 + 各自やること発表
 * 19:40 もくもく開始
   * 作業まとめながらやるもよし！各自README.mdへ書く
